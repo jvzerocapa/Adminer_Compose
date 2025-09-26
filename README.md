@@ -42,8 +42,8 @@ Execute:
 
 docker compose up -d
 Verifique se o container está rodando:
-
 docker ps
+
 Acessando a interface
 Abra o navegador e acesse:
 
